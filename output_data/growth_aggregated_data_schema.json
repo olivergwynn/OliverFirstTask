@@ -1,0 +1,11 @@
+{
+	"namespace": "Task1",
+	"type": "record",
+	"name": "growth_aggregated_data",
+	"doc": "Census PEP population growth estimates by type for Franklin and Delaware counties.",
+	"fields": [
+		{"name": "Year", "type": "int", "doc": "Reference year for estimated variable. Specific reference date may vary. See process documentation more details."},
+		{"name": "ChangeType", "type": "string", "doc": "Type of population change, either 'NatGrowth' or 'Migration'"},
+		{"name": "PopChange", "type": "int", "doc": "Change in population that can be attributed to either migration or natural growth."}		
+	]
+}
