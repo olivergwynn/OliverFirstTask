@@ -1,0 +1,80 @@
+{
+    "fields": [
+        {
+            "name": "field1",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "GEOID",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "STNAME",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "CTYNAME",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "Year",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "Vintage",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "BIRTHS",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "DEATHS",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "DOMESTICMIG",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "INTERNATIONALMIG",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "NATURALCHG",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "NETMIG",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "NPOPCHG",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "POPESTIMATE",
+            "type": "integer",
+            "format": "default"
+        },
+        {
+            "name": "RESIDUAL",
+            "type": "integer",
+            "format": "default"
+        }
+    ],
+    "missingValues": "N/A"
+}
