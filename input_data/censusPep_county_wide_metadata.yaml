@@ -1,0 +1,33 @@
+fields:
+  - name: GEOID
+    type: integer
+    constraints:
+      required: true
+  - name: STNAME
+    type: string
+  - name: CTYNAME
+    type: string
+  - name: Year
+    type: integer
+  - name: Vintage
+    type: integer
+  - name: BIRTHS
+    type: integer
+  - name: DEATHS
+    type: integer
+  - name: DOMESTICMIG
+    type: integer
+  - name: INTERNATIONALMIG
+    type: integer
+  - name: NATURALCHG
+    type: integer
+  - name: NETMIG
+    type: integer
+  - name: NPOPCHG
+    type: integer
+  - name: POPESTIMATE
+    type: integer
+  - name: RESIDUAL
+    type: integer
+primaryKey:
+  - GEOID

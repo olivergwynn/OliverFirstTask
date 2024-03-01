@@ -1,11 +1,6 @@
 {
     "fields": [
         {
-            "name": "field1",
-            "type": "integer",
-            "format": "default"
-        },
-        {
             "name": "GEOID",
             "type": "integer",
             "format": "default"

@@ -1,0 +1,13 @@
+name: memory
+type: table
+data: []
+format: pandas
+mediatype: application/pandas
+schema:
+  fields:
+    - name: Year
+      type: integer
+    - name: ChangeType
+      type: string
+    - name: PopChange
+      type: integer
