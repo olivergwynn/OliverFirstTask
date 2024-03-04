@@ -16,5 +16,8 @@
             "format": "default"
         }
     ],
-    "missingValues": "N/A"
+    "missingValues": [
+        "N/A",
+        ""
+    ]
 }
